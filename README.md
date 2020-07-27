@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Coldcrack github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Coldcrack)
+![Coldcrack github stats](https://github-readme-stats.vercel.app/api?username=Coldcrack&show_icons=true)
+
