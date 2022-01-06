@@ -1,5 +1,7 @@
-### Hi,I'm Coldcrack 👋
+# ### Hi,I'm Coldcrack 👋
 
+爱吃鱼香肉丝，是个漫宅，喜欢海贼王，最近喜欢上了国漫，一人之上yyds。
+新的一年希望能掌握一个新的技术点，还有继续维护自己的blog。
 <!--
 **Coldcrack/Coldcrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
