@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![Coldcrack github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Coldcrack)
 ![Coldcrack github stats](https://github-readme-stats.vercel.app/api?username=Coldcrack&show_icons=true)
 
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@Coldcrack?theme=gelbooru)
